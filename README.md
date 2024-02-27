@@ -33,7 +33,7 @@ Step 3: Now, Node 1 at the top of the stack, so visit node 1 and pop it from the
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/e6017942-08b1-4742-87ad-c97eb97bf985)
 
 Visit node 1
- Visit node 1
+Visit node 1
 
 
 Step 4: Now, Node 2 at the top of the stack, so visit node 2 and pop it from the stack and put all of its adjacent nodes which are not visited (i.e, 3, 4) in the stack.
